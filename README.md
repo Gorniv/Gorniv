@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Tema lead & flutter developer at [zfx.com](https://zfx.com) in Moscow, Russia 🌆
+I'm a flutter developer, now int Thailand 🌆
 
-- 🔭 I’m currently working on [meows.app](https://meows.app), [vscode-flutter-files](https://github.com/Gorniv/vscode-flutter-files),[doppio-dev](https://github.com/doppio-dev), [angular-universal-starter](https://github.com/Angular-RU/angular-universal-starter), 
+- 🔭 I’m currently working on [aso.dev](https://aso.dev), [meows.app](https://meows.app) [vscode-flutter-files](https://github.com/Gorniv/vscode-flutter-files),[doppio-dev](https://github.com/doppio-dev), [angular-universal-starter](https://github.com/Angular-RU/angular-universal-starter), 
 - 💬 Ask me about Flutter and Dart.
 - 😄 Pronouns: he/him/his
 
