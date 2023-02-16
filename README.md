@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a flutter developer, now int Thailand 🌆
+I'm a flutter developer, now in Thailand 🌆
 
 - 🔭 I’m currently working on [aso.dev](https://aso.dev), [meows.app](https://meows.app) [vscode-flutter-files](https://github.com/Gorniv/vscode-flutter-files),[doppio-dev](https://github.com/doppio-dev), [angular-universal-starter](https://github.com/Angular-RU/angular-universal-starter), 
 - 💬 Ask me about Flutter and Dart.
