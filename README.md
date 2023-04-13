@@ -11,7 +11,7 @@ I’m currently working on:
 - [doppio-dev](https://github.com/doppio-dev)
 - [angular-universal-starter](https://github.com/Angular-RU/angular-universal-starter)
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Kazakhstan
 * ✉️  You can contact me at [gornivv@gmail.com](mailto:gornivv@gmail.com)
 * 🤝  I'm open to collaborating on Flutter projects
 
